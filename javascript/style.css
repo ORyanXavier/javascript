@@ -1,0 +1,29 @@
+
+input{
+    display: flex;
+    height: 25px;
+
+}
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+button{
+    border-radius: 9px;
+    border-color: rgb(0, 0, 0);
+    font-style: italic;
+    height: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+h1{
+    font-size: 60px;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div{
+  padding: 10px;
+
+}
